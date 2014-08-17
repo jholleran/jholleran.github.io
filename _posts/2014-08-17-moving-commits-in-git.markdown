@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to move last commits to between branchs in Git"
+title:  "How to move last commits to between branches in Git"
 date:   2014-08-17 12:45:48
 categories: git tips
 ---
