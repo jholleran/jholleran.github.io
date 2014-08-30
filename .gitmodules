@@ -1,0 +1,8 @@
+[submodule "twitter"]
+    path = _theme_packages/twitter
+    url = https://github.com/jekyllbootstrap/theme-twitter.git
+
+
+[submodule "twitter-2.0"]
+    path = _theme_packages/twitter-2.0
+    url = https://github.com/gdagley/theme-twitter-2.0
