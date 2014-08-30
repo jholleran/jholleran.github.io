@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jarlath Holleran's Blog
-tagline: Supporting taglines
 ---
 
 
