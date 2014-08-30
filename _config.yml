@@ -16,6 +16,13 @@ author :
   github : jholleran
   twitter : JarlathHolleran
 
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is used to document useful and interesting information that I 
+  have found working as a Software Developer. It is also contains Articles and 
+  How To guides about various technologies.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
