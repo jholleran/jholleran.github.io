@@ -3,6 +3,7 @@ layout: post
 title:  "Revering commits in Git"
 date:   2014-08-20
 categories: git tips
+tags : [tutorial, git]
 ---
 
 Git revert undoes a single commit. It does not revert back to a previous state of the project by removing previous commits. In git this is called reset.

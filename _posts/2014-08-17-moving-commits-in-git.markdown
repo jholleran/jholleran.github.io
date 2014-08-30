@@ -3,6 +3,7 @@ layout: post
 title:  "How to move last commits to between branches in Git"
 date:   2014-08-17 12:45:48
 categories: git tips
+tags : [tutorial, git]
 ---
 
 If you have accidently made commits onto a branch and now want to move them commits to a new branch or and existing branch here is how to do it.
