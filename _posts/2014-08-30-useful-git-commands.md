@@ -8,7 +8,7 @@ tags: [git]
 {% include JB/setup %}
 
 
-##Prints out the commit log history
+##Prints out the commit log
 
 **git log --oneline --graph --decorate --all**
 
@@ -28,6 +28,14 @@ tags: [git]
 	* 330c932 Added post content
 	* 342f8b2 Changed header and footer styling
 	* 496e128 Changing base url
+
+**--oneline** - Prints a summary of the commit on one line
+
+**--graph** - Prints out a graph showing the links between the commits
+
+**--decorate** - Print out the ref names of any commits shown
+
+**--all** - Prints out all refs
 
 
 ##Revert a commit
